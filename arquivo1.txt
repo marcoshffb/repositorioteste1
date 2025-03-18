@@ -1,4 +1,20 @@
 Feculdade UNIESP
 Ciências da Computação
-Tópicos Essenciais na Programação
+Introdução à Programação
 Marcos Henrique Formiga Fernandes Bezerra
+
+Respostas da lista de exercícios
+
+Q1
+
+Q2
+
+
+
+Q3
+
+Q4
+
+Q5
+
+Q6
